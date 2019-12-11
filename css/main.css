@@ -1,7 +1,9 @@
-html{
+body{
   background-color: #c9b5ab;
   font-family: sans-serif;
 }
+
+html{}
 
 h1{
   color: #3f1622;
