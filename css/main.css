@@ -1,14 +1,36 @@
 body{
   background-color: #c9b5ab;
-  font-family: sans-serif;
+  font-family: Pt sans-serif;
 }
 
 html{}
 
+}
 h1{
   color: #3f1622;
+  font-family: sans-serif;
 }
 
 h2{
+color: #222;
+font-family: serif;
+
+}
+p {
+  font-family: PT Serif;
+
+}
+
+figcaption {
+  text-align: center;
+
+}
+
+figcaption {
+  align-content: space-between;
+}
+
+blockquote{
+  border-color: #222;
 
 }
